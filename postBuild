@@ -3,9 +3,14 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
-jupyter trust S1_position.ipynb
 jupyter trust S1_energie.ipynb
+jupyter trust S1_periode.ipynb
+jupyter trust S1_position.ipynb
+jupyter trust S1_sinusoides.ipynb
+jupyter trust S1_somme.ipynb
 jupyter trust S2_lentille.ipynb
+jupyter trust S2_longueurdonde.ipynb
+jupyter trust S2_refraction.ipynb
 
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
