@@ -30,3 +30,14 @@ Animations en python pour illustrer le cours de physique de PCSI du Lycée Inter
 
 ### Refraction
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/PCSI/master?urlpath=apps/S2_refraction.ipynb)
+
+
+## Chapitre 4 - Lentilles minces sphériques
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/PCSI/master?urlpath=apps/S2_lentille.ipynb)
+
+## Chapitre 6 - Exemples de signaux et spectres
+### Influence de la fréquence et de l'amplitude
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/PCSI/master?urlpath=apps/S6_spectre.ipynb)
+
+### Lien entre signal et spectre
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/PCSI/master?urlpath=apps/S6_spectre2.ipynb)
