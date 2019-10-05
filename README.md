@@ -41,3 +41,7 @@ Animations en python pour illustrer le cours de physique de PCSI du Lycée Inter
 
 ### Lien entre signal et spectre
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/PCSI/master?urlpath=apps/S6_spectre2.ipynb)
+
+## Chapitre 7 - Phénomènes de propagation
+### Evolution spatio-temporelle d'une onde progressive unidimensionnelle
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/PCSI/master?urlpath=apps/S7_propagation.ipynb)
